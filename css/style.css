@@ -1,0 +1,25 @@
+html{ background-color:whitesmoke; }
+table
+{
+    width:100%;
+    border-collapse:collapse;
+}
+th{ background-color:aquamarine; }
+tr{ background-color:whitesmoke; }
+td{ text-align:center; }
+ul{ padding:0%; }
+ul li{ list-style-type:none; }
+.download
+{
+    text-decoration:none;
+    color:skyblue;
+}
+.download:visited{ color:skyblue; }
+.download:hover{ color:black; }
+a
+{
+    text-decoration:none;
+    color:skyblue;
+}
+a:visited{ color:skyblue; }
+a:hover{ color:black; }
